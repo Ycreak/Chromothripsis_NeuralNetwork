@@ -14,7 +14,7 @@ This code calls the detect_chromothripsis.R file. This uses the ShatterSeek libr
 
 ##To create the neural network, run the create_neuralnetwork.py code
 
-All dependencies can be install using:
+All dependencies can be installed using:
 
 $ pip3 install -r requirements.txt
 
